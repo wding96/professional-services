@@ -49,3 +49,8 @@ override.tf.json
 .terraformrc
 terraform.rc
 
+
+.github/*
+cloudbuild/*
+helpers/*
+tools/*
